@@ -1,7 +1,7 @@
 Multiverse Logo
 ================
 
-Just a project that generates the ‘miltiverse’ logo.
+Just a project that generates the ‘multiverse’ logo.
 
 ``` r
 library(tidyverse)

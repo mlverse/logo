@@ -6,7 +6,7 @@ output:
     fig_height: 1
 ---
 
-Just a project that generates the 'miltiverse' logo.
+Just a project that generates the 'multiverse' logo.
 
 ```{r eval=FALSE}
 library(tidyverse)
