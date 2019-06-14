@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="600" viewBox="20,-100,1732,2200">
+            <clipPath id="area1">
+                <polygon points="866,0 1732,500 1732,1500 866,2000 0,1500 0,500"></polygon>
+            </clipPath>
+            <defs>
+                <pattern id="background" patternUnits="userSpaceOnUse" width="24000" height="12000" fill="#000000">
+                    <image xlink:href="mv4.png" x="-1000" y="300" width="5000" height="2500"></image>
+                </pattern>
+            </defs>
+            <polygon points="866,0 1732,500 1732,1500 866,2000 0,1500 0,500" stroke="#e8f2ff" stroke-width="0" fill="#bec8ff">
+            </polygon>
+            <image xlink:href="multiverse.png" x="-1100" y="220" height="2700" clip-path="url(#area1)" class="" width="5400">
+            </image>
+            <polygon points="866,0 1732,500 1732,1500 866,2000 0,1500 0,500" fill="transparent" class="hex" stroke="#c3caff" stroke-width="80">
+            </polygon>
+            <text x="220" y="600" font-size="18em" font-family="sans-serif" fill="white" font-weight="200">multiverse</text>
+            <text x="-200" y="2110" font-size="4em" font-family="sans-serif" fill="white" font-weight="500" transform="rotate(-29.5)">www.rstudio.com</text>
+        </svg>
