@@ -43,7 +43,7 @@ sphere(material = metal(color="#AAAAFF", implicit_sample = T),
             <polygon points="866,0 1732,500 1732,1500 866,2000 0,1500 0,500" fill="transparent"
                      class="hex" stroke="#c3caff" stroke-width="80">
             </polygon>
-            <text x="220" y="600" font-size="18em" font-family="sans-serif" fill="white" font-weight="200">multiverse</text>
+            <text x="220" y="600" font-size="18em" font-family="sans-serif" fill="white" font-weight="200">mlverse</text>
             <text x="-200" y="2110" font-size="4em" font-family="sans-serif" fill="white" font-weight="500"
                   transform="rotate(-29.5)">www.rstudio.com</text>
         </svg>
